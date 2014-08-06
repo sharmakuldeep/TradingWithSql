@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1813981320">
+    <data-source source="LOCAL" name="UniversityProject dev" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="573cb71b-7854-449f-b939-0a3b42e7cb42">
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/universityProject_dev?zeroDateTimeBehavior=convertToNull&amp;useUnicode=true&amp;autoreconnect=true</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfdedf9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
